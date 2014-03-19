@@ -32,6 +32,34 @@
 		</repository>
 	</repositories>
 
+	<developers>
+		<developer>
+			<id>landini</id>
+			<name>Gabriel Landini</name>
+			<email>g.landini@bham.ac.uk</email>
+			<url>http://www.mecourse.com/landinig/software/software.html</url>
+			<organization>Oral Pathology Unit, School of Dentistry, University of Birmingham, England, U.K</organization>
+			<organizationUrl>http://www.dentistry.bham.ac.uk/</organizationUrl>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
+			<timezone>+0</timezone>
+		</developer>
+		<developer>
+			<id>dscho</id>
+			<name>Johannes Schindelin</name>
+			<email>schindelin@wisc.edu</email>
+			<url>http://loci.wisc.edu/people/johannes-schindelin</url>
+			<organization>UW-Madison LOCI</organization>
+			<organizationUrl>http://loci.wisc.edu/</organizationUrl>
+			<roles>
+				<role>developer</role>
+			</roles>
+			<timezone>-6</timezone>
+		</developer>
+	</developers>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/IJ_Robot</connection>
 		<developerConnection>scm:git:git@github.com:fiji/IJ_Robot</developerConnection>
