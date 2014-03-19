@@ -12,6 +12,7 @@
 	</parent>
 
 	<artifactId>IJ_Robot</artifactId>
+	<version>1.0.0</version>
 
 	<name>plugins/IJ_Robot.jar</name>
 	<description></description>
