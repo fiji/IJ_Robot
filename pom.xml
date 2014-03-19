@@ -32,4 +32,10 @@
 		</repository>
 	</repositories>
 
+	<scm>
+		<connection>scm:git:git://github.com/fiji/IJ_Robot</connection>
+		<developerConnection>scm:git:git@github.com:fiji/IJ_Robot</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/fiji/IJ_Robot</url>
+	</scm>
 </project>
