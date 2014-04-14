@@ -61,6 +61,11 @@
 		</developer>
 	</developers>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/IJ_Robot/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/IJ_Robot</connection>
 		<developerConnection>scm:git:git@github.com:fiji/IJ_Robot</developerConnection>
