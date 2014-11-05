@@ -1,8 +1,15 @@
-import ij.*;
-import ij.gui.*;
-import ij.plugin.*;
-import java.awt.*;
-import java.awt.event.*;
+import ij.IJ;
+import ij.ImagePlus;
+import ij.gui.GenericDialog;
+import ij.plugin.PlugIn;
+
+import java.awt.Dimension;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.event.InputEvent;
+import java.awt.event.KeyEvent;
 
 public class IJ_Robot implements PlugIn {
     
