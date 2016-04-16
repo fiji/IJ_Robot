@@ -14,6 +14,8 @@
 
 	<name>plugins/IJ_Robot.jar</name>
 	<description />
+	<url>http://imagej.net/IJ_Robot</url>
+	<inceptionYear>2009</inceptionYear>
 
 	<developers>
 		<developer>
